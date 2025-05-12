@@ -1,0 +1,3 @@
+﻿  logica.cpp
+C:\Users\Bia\Desktop\jump in\main\logica\src\logica.cpp(173,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  logica.vcxproj -> C:\Users\Bia\Desktop\jump in\main\x64\Debug\logica.lib

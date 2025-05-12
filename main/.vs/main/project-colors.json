@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e04b2603-ce3e-4c7c-a050-40be281f57de": {
+      "ProjectGuid": "e04b2603-ce3e-4c7c-a050-40be281f57de",
+      "DisplayName": "main",
+      "ColorIndex": 0
+    },
+    "c1103ef9-535f-4d9d-b9ef-e93a05cf43bc": {
+      "ProjectGuid": "c1103ef9-535f-4d9d-b9ef-e93a05cf43bc",
+      "DisplayName": "logica",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(150,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(159,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(167,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(176,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(345,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(346,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(348,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(348,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(352,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(353,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(367,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(368,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(379,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(380,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(348,83): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(501,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(511,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(596,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(612,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Bia\Desktop\jump in\main\main\main.cpp(655,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  main.vcxproj -> C:\Users\Bia\Desktop\jump in\main\x64\Debug\main.exe
